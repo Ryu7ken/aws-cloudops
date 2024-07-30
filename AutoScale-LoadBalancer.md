@@ -233,7 +233,7 @@ sudo echo '<!DOCTYPE html>
 ![lbcheck](/assets/images/lbcheck.png)
 
 
-> [!ALERT]
+> [!WARNING]
 > Once you’re done using your Auto Scaling Group and Application Load Balancer, be sure to delete them or you’ll get charged for the running EC2 instances. The instances will automatically terminate.
 
 <h3>We’ve successfully created an auto scaling web app environment that dynamically scales our EC2 instances and properly routes traffic to the right target groups!</h3>
