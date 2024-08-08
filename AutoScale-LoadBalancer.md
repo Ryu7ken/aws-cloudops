@@ -1,6 +1,6 @@
 <h2>Achieving high availability with AWS Auto Scaling Group (ASG) and Application Load Balancer (ALB) Integration</h2>
 
-<h3>Below is the step by step guide to setup your scalable system:</h3>
+<h3>Below is the step by step guide to auto-scale your system:</h3>
 
 ***Step-1:*** Go to VPC console and create a VPC.
 
